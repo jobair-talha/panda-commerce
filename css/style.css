@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+}
+/* ===========banner part start ============*/
+.banner-bg{
+    background: #feeae9;
+}
+#banner-part p{
+    color: #4e4e4e;
+}
+#banner-part h4{
+    color: #ff136f;
+}
+.button-bg{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+/* ===========banner part End ============*/
+
+.watch-bg{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.bag-bg{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.shoes-bg{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+#best-categories{
+    background: #f4f4f4;
+}
+
+/* ======Footer======= */
+footer .bg{
+    background: #feeae9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
